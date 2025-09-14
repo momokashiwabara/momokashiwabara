@@ -4,12 +4,6 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=momokashiwabara&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00ff00&title_color=00ff00&text_color=00ff00&bg_color=000000" alt="GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=momokashiwabara&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00" /> 
-</p> 
-
-
-<p align="center"> 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJwOHN5M2JtYXUxOTF6ZTQ4bXZpbmlqbGM3N2J1ajVoZDRtaThzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vf7m1r9lnoDl6hjU3u/giphy.gif" width="250px" style="margin-right:15px;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF5enhjYnpsaGlmZTRnaTdnenc4eGE5bXF0OXVnY2pzejN6dGN0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JPb0gtY8CNU3EW3QvS/giphy.gif" width="250px" style="margin-left:15px;" /> 
   <br> 
